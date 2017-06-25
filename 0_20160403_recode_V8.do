@@ -1,5 +1,5 @@
 
-*REGENERATE 0407
+*REGENERATE 0624
 *****************************
 set more off
 global CHNS "/Users/kwync/Documents/Research/CHNS/"
